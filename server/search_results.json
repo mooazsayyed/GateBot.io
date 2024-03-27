@@ -1,0 +1,560 @@
+{
+  "search_metadata": {
+    "id": "660260fed5b1c5f0b312ba8a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/17f5e031f4c887ae/660260fed5b1c5f0b312ba8a.json",
+    "created_at": "2024-03-26 05:45:34 UTC",
+    "processed_at": "2024-03-26 05:45:34 UTC",
+    "google_local_url": "https://www.google.com/search?q=Haircut+Pune&uule=w+CAIQICIWUHVuZSxNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=us&tbm=lcl",
+    "raw_html_file": "https://serpapi.com/searches/17f5e031f4c887ae/660260fed5b1c5f0b312ba8a.html",
+    "total_time_taken": 1.85
+  },
+  "search_parameters": {
+    "engine": "google_local",
+    "q": "Haircut Pune",
+    "location_requested": "Pune",
+    "location_used": "Pune,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "ads_results": [
+    {
+      "position": 1,
+      "ad_title": "Professional Hair Stylists",
+      "displayed_link": "business.google.com",
+      "rating": 4.8,
+      "reviews_original": "(86)",
+      "reviews": 86,
+      "place_id": "827945269084221978",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=827945269084221978&q=Haircut+Pune",
+      "lsig": "AB86z5UpBZFOhKHi6zxipjbusLrf",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/23db275b0eb24d7108b766f81fe7d2fd45c2ae11ca84ee3e.png",
+      "gps_coordinates": {
+        "latitude": 18.5524,
+        "longitude": 73.803282
+      },
+      "links": {
+        "website": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH17DknJGFAxXmpFoFHYCQCJoYABAAGgJ2dQ&ase=2&gclid=EAIaIQobChMIx9ew5JyRhQMV5qRaBR2AkAiaEBAYASAAEgJ5vvD_BwE&sig=AOD64_1wWwTHiISQsDACf22XUse9i6bwkA&q=&nis=4&ctype=99&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQhKwBegQIMRAO&adurl=",
+        "directions": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH17DknJGFAxXmpFoFHYCQCJoYABABGgJ2dQ&ase=2&gclid=EAIaIQobChMIx9ew5JyRhQMV5qRaBR2AkAiaEBAYASABEgJWovD_BwE&sig=AOD64_2gal25E5y4UT17JboMz2KE4kpZyA&ctype=50&q=&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQhawBegQIMRAP&adurl="
+      },
+      "title": "The hair coach salon & Academy | Makeup Artist",
+      "type": "Hairdresser",
+      "address": "next to bhairavi hotel",
+      "phone": "090493 63164",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 2,
+      "ad_title": "Best salon in kiwale",
+      "displayed_link": "google.com",
+      "place_id": "5806835237344949701",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=5806835237344949701&q=Haircut+Pune",
+      "lsig": "AB86z5X5iRB2OwoaNmz8ND-Pc0m4",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/23db275b0eb24d710e59f5bbff2dcebd387e82a1ebb3d21b.png",
+      "gps_coordinates": {
+        "latitude": 18.659084,
+        "longitude": 73.732858
+      },
+      "links": {
+        "website": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH17DknJGFAxXmpFoFHYCQCJoYABAHGgJ2dQ&ase=2&gclid=EAIaIQobChMIx9ew5JyRhQMV5qRaBR2AkAiaEBAYAiAAEgL5xPD_BwE&sig=AOD64_1qlrNXC67O1Q1yhtFc-JniswbP4A&q=&nis=4&ctype=99&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQhKwBegQIMRAY&adurl=",
+        "directions": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH17DknJGFAxXmpFoFHYCQCJoYABAIGgJ2dQ&ase=2&gclid=EAIaIQobChMIx9ew5JyRhQMV5qRaBR2AkAiaEBAYAiABEgIQdPD_BwE&sig=AOD64_1h-8d1Su5zjmTtwZOgA6qlsMk-6Q&ctype=50&q=&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQhawBegQIMRAZ&adurl="
+      },
+      "title": "Mahi's Studio",
+      "address": "Kohinoor Grandeur, Shop No. 30",
+      "phone": "073505 04757"
+    }
+  ],
+  "local_results": [
+    {
+      "position": 1,
+      "rating": 4.7,
+      "reviews_original": "(95)",
+      "reviews": 95,
+      "description": "\"Good haircut at an affordable price.\"",
+      "place_id": "2483356314887969423",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=2483356314887969423&q=Haircut+Pune",
+      "lsig": "AB86z5UpBZFOhKHi6zxipjbusLrf",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb0872bc147d1cced1db4723a23a2ad3adf3d888914adcb92e.png",
+      "gps_coordinates": {
+        "latitude": 18.5524,
+        "longitude": 73.803282
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Headmaster+The+Unisex+Salon,+72+Somwar+Peth,+Near+Nageshwar+Mandir,+Landmark+:+Kamala+Nheru+Hospital.,+Pune,+Maharashtra+411011,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c067a9ae6383:0x2276a769379eda8f?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIFxAA&hl=en&gl=us"
+      },
+      "title": "Headmaster The Unisex Salon",
+      "type": "Hair salon",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "7+ years in business",
+      "phone": "+91 80876 57272",
+      "hours": "Open ⋅ Closes 10 PM"
+    },
+    {
+      "position": 2,
+      "rating": 4.6,
+      "reviews_original": "(262)",
+      "reviews": 262,
+      "description": "\"Best hair saloon for haircut ND hair treatment\"",
+      "place_id": "7981980914284335879",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=7981980914284335879&q=Haircut+Pune",
+      "lsig": "AB86z5X5iRB2OwoaNmz8ND-Pc0m4",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb5b2563fccc56fb2c734f9edaf4a203559a80e4f285815136.png",
+      "gps_coordinates": {
+        "latitude": 18.659084,
+        "longitude": 73.732858
+      },
+      "links": {
+        "website": "https://www.instagram.com/invites/contact/?i=b48sgo85al92&utm_content=ifrdq0b",
+        "directions": "https://www.google.com/maps/dir//Flying+Scissor+Unisex+Salon,+Bhosale+shinde+Arcade+Deccan+gymkhana,+Jangali+Maharaj+Rd,+near+Dena+Bank,+Pune-04,+Pune,+Maharashtra+411004,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c1420e4a601b:0x6ec5b159e7dd9307?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIFhAA&hl=en&gl=us"
+      },
+      "title": "Flying Scissor Unisex Salon",
+      "type": "Hair salon",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "5+ years in business",
+      "phone": "+91 76207 90282",
+      "hours": "Open ⋅ Closes 8 PM"
+    },
+    {
+      "position": 3,
+      "rating": 4.8,
+      "reviews_original": "(180)",
+      "reviews": 180,
+      "description": "Provides: Haircut",
+      "place_id": "4013798652148892252",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=4013798652148892252&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fbc2204efc8c75de340512e6cf0422cea71aebc0d931da88a9.png",
+      "gps_coordinates": {
+        "latitude": 18.5217083,
+        "longitude": 73.8630666
+      },
+      "links": {
+        "website": "https://www.looksmatter.salon/",
+        "directions": "https://www.google.com/maps/dir//Office+No+19,+Ground+Floor,+LooksMatter+Unisex+Salon,+Dnyaneshwar+Paduka+Chowk,+A+Wing,+Fergusson+College+Rd,+Shivajinagar,+Pune,+Maharashtra+411005,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2bf17d30c0f3d:0x37b3e09bad46c25c?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIFBAA&hl=en&gl=us"
+      },
+      "title": "LooksMatter Unisex Salon",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "3+ years in business",
+      "phone": "+91 72100 00325",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 4,
+      "rating": 4.6,
+      "reviews_original": "(103)",
+      "reviews": 103,
+      "description": "\"Best for keratin or any other hair treatment\"",
+      "place_id": "3438618176843099569",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=3438618176843099569&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb9bef845d6306243b24a28e9a8fe7fb25c14d00f4b8681d16.png",
+      "gps_coordinates": {
+        "latitude": 18.5173606,
+        "longitude": 73.84380449999999
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//NAMRATA+Studio,+Salon+and+Academy,+14,+near+Kamla+Nehru+Hospital,+opp.+Siddheshwar+temple,+Somwar+Peth,+Pune,+Maharashtra+411011,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c010a800cfd7:0x2fb86d0364ef2db1?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIFRAA&hl=en&gl=us"
+      },
+      "title": "NAMRATA Studio, Salon and Academy",
+      "type": "Hair salon",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "30+ years in business",
+      "phone": "+91 95615 77333",
+      "hours": "Open ⋅ Closes 7:30 PM"
+    },
+    {
+      "position": 5,
+      "rating": 4.7,
+      "reviews_original": "(521)",
+      "reviews": 521,
+      "description": "Provides: Haircut",
+      "place_id": "14898253935583180808",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=14898253935583180808&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fbc54c0d4b10407110e1079f8f1ce6b225c3527fa8af0df0e0.png",
+      "gps_coordinates": {
+        "latitude": 18.5244464,
+        "longitude": 73.8415909
+      },
+      "links": {
+        "website": "http://www.persiansaloon.com/",
+        "directions": "https://www.google.com/maps/dir//Persian+Salon,+827,+Dastur+Meher+Rd,+Camp,+Pune,+Maharashtra+411001,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c04f7e5a62d9:0xcec13b0524003808?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIERAA&hl=en&gl=us"
+      },
+      "title": "Persian Salon",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "10+ years in business",
+      "phone": "+91 93712 34444",
+      "hours": "Open ⋅ Closes 9:30 PM"
+    },
+    {
+      "position": 6,
+      "rating": 4.5,
+      "reviews_original": "(655)",
+      "reviews": 655,
+      "description": "\"Great haircut service\"",
+      "place_id": "17302086146314069163",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=17302086146314069163&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fbf054fff21cb52176442be0a2fbae5ecfee9f7a5dde635d91.png",
+      "gps_coordinates": {
+        "latitude": 18.5225018,
+        "longitude": 73.8628707
+      },
+      "links": {
+        "website": "https://nikssalon.com/",
+        "directions": "https://www.google.com/maps/dir//Niks+International+Salon,+FC+Road+Branch,+Millenium+Plaza,+G12,+Fergusson+College+Rd,+Shivajinagar,+Pune,+Maharashtra+411004,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2bfe46df40359:0xf01d5bae0041e4ab?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIEhAA&hl=en&gl=us",
+        "order": "https://www.google.com/maps/reserve/m/AltQVMRkQkM?source=cat&opi=89978449&hl=en-US&gei=_mACZtLhO_-liLMPitaq2Ag&sourceurl=https://www.google.com/search?uule%3Dw%2BCAIQICIWUHVuZSxNYWhhcmFzaHRyYSxJbmRpYQ%26q%3DHaircut%2BPune%26tbm%3Dlcl%26gl%3Dus%26hl%3Den"
+      },
+      "title": "Niks International Salon, FC Road Branch",
+      "type": "Hair salon",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "15+ years in business",
+      "phone": "+91 20 6640 6780",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 7,
+      "rating": 4.9,
+      "reviews_original": "(585)",
+      "reviews": 585,
+      "description": "\"Prathamesh- cool haircut with professional hair stylist\"",
+      "place_id": "4625309062784091522",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=4625309062784091522&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb797ad0a75b54991c975c6f8fb7c21c4137afdc73c3e73462.png",
+      "gps_coordinates": {
+        "latitude": 18.516860899999998,
+        "longitude": 73.8773716
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//shop+no+2%2F3,+Hair+Affair+Professionnel+Unisex+Salon+And+Tattoo+Studio,+nirankar+apts,+1133%2F5,+Fergusson+College+Rd,+opp.+zudio,+Model+Colony,+Shivajinagar,+Pune,+Maharashtra+411016,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c102b0e2568d:0x403066162fa40582?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIEBAA&hl=en&gl=us"
+      },
+      "title": "Hair Affair Professionnel Unisex Salon And Tattoo Studio",
+      "type": "Hair salon",
+      "address": "Pune, Maharashtra, India",
+      "phone": "+91 98221 67575",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 8,
+      "rating": 4.3,
+      "reviews_original": "(185)",
+      "reviews": 185,
+      "description": "Provides: Haircut",
+      "place_id": "6631193471244401992",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=6631193471244401992&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fbd2bde112aa5ec38e1cafb9ae15d87000a58e621593f0ad5a.png",
+      "gps_coordinates": {
+        "latitude": 18.5221646,
+        "longitude": 73.8412356
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//V+LOUNGE+SALON,+Aurora+Towers,+MG+Road,+near+union+bank,+Camp,+Pune,+Maharashtra+411001,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c04fb988671f:0x5c06bb541a697d48?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIDxAA&hl=en&gl=us",
+        "order": "https://www.google.com/maps/reserve/m/m5WjS2ipDAs?source=cat&opi=89978449&hl=en-US&gei=_mACZtLhO_-liLMPitaq2Ag&sourceurl=https://www.google.com/search?uule%3Dw%2BCAIQICIWUHVuZSxNYWhhcmFzaHRyYSxJbmRpYQ%26q%3DHaircut%2BPune%26tbm%3Dlcl%26gl%3Dus%26hl%3Den"
+      },
+      "title": "V LOUNGE SALON",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "20+ years in business",
+      "phone": "+91 99231 66580",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 9,
+      "rating": 4.8,
+      "reviews_original": "(1.7K)",
+      "reviews": 1700,
+      "description": "Provides: Haircut",
+      "place_id": "8265007060713564773",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=8265007060713564773&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb4ebdc699e305e09348a96ad2383444bb57f3988fcd14e610.png",
+      "gps_coordinates": {
+        "latitude": 18.5290557,
+        "longitude": 73.8431468
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Nitrogen+Unisex+Salon,+FC+Road+Pune,+Fergusson+College+Road,+Beside+Of+Airtel+Store,+Opposite+Side+Of+IDBI+Bank,+near+Niranjan+Hotel,+Pune,+Maharashtra+411004,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c1226e433c57:0x72b33421bfed6a65?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIDBAA&hl=en&gl=us"
+      },
+      "title": "Nitrogen Unisex Salon, FC Road Pune",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "5+ years in business",
+      "phone": "+91 72767 38899",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 10,
+      "rating": 4.5,
+      "reviews_original": "(714)",
+      "reviews": 714,
+      "description": "Provides: Haircut",
+      "place_id": "3658505590287044911",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=3658505590287044911&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb32cf74817dfe65351b6ea9d4d21d43734b1eca2be38b37d0.png",
+      "gps_coordinates": {
+        "latitude": 18.5175747,
+        "longitude": 73.8785311
+      },
+      "links": {
+        "website": "https://tresminksalon.com/",
+        "directions": "https://www.google.com/maps/dir//Tres+Mink+de+Shailesh+Mistry+Salon+-+Koregaon+Park,+precious+gems+society,+Lane+No.+6,+Koregaon+Park,+Pune,+Maharashtra+411001,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c1064009ed43:0x32c59f7365d7112f?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIDRAA&hl=en&gl=us"
+      },
+      "title": "Tres Mink de Shailesh Mistry Salon - Koregaon Park",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "7+ years in business",
+      "phone": "+91 91589 83304",
+      "hours": "Open ⋅ Closes 8:30 PM"
+    },
+    {
+      "position": 11,
+      "rating": 4.3,
+      "reviews_original": "(36)",
+      "reviews": 36,
+      "description": "\"Good salon my son like the haircut 😊\"",
+      "place_id": "397257054692838089",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=397257054692838089&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb14fb4b387f424c22fa1b029f606e77c61b1c5088df4fa48f.png",
+      "gps_coordinates": {
+        "latitude": 18.5262436,
+        "longitude": 73.8420634
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Master+Cut+The+unisex+Salon,+maruti+mandir+temple,+193%2F129+shanivar+peth,+Kanchan+ganga+society,+near+Shaniwar+Peth+Road,+Pune,+Maharashtra+411042,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c1de1b358795:0x583572fbd7c0ac9?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIDhAA&hl=en&gl=us"
+      },
+      "title": "Master Cut The unisex Salon",
+      "type": "Hair salon",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "5+ years in business",
+      "hours": "Open ⋅ Closes 10:30 PM"
+    },
+    {
+      "position": 12,
+      "rating": 4.4,
+      "reviews_original": "(854)",
+      "reviews": 854,
+      "description": "\"Got a haircut from stylist Heena .\"",
+      "place_id": "8792582770345063990",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=8792582770345063990&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fbd5a5f08b63c68e0ddcff49260a07bdea031cbae750690666.png",
+      "gps_coordinates": {
+        "latitude": 18.537150699999998,
+        "longitude": 73.8987506
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Hair+2+Order+-+Salon+In+Koregaon+Park,+Lane+No.+6,+Koregaon+Park,+Pune,+Maharashtra+411001,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c0fdcc0ce329:0x7a058771cca33636?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQICxAA&hl=en&gl=us"
+      },
+      "title": "Hair 2 Order - Salon In Koregaon Park",
+      "type": "Hair salon",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "7+ years in business",
+      "phone": "+91 98501 80031",
+      "hours": "Open ⋅ Closes 8 PM"
+    },
+    {
+      "position": 13,
+      "rating": 4.9,
+      "reviews_original": "(121)",
+      "reviews": 121,
+      "description": "\"Quality services nice n good quality haircut\"",
+      "place_id": "14759436133372833357",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=14759436133372833357&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fbd0d93427faa0bd0f2001cadc55fe429fcbef979055e0699a.png",
+      "gps_coordinates": {
+        "latitude": 18.519537,
+        "longitude": 73.85237529999999
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//shop+no+1,+Hair+castle+unisex+salon,+mhasoba+chook+Building,+398,+Lions+Club+Path,+Dattawadi,+Pune,+Maharashtra+411030,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2bffdecf7f179:0xccd40cf6e6c0ae4d?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIBhAA&hl=en&gl=us"
+      },
+      "title": "Hair castle unisex salon",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "phone": "+91 89833 22715",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 14,
+      "rating": 5,
+      "reviews_original": "(135)",
+      "reviews": 135,
+      "description": "Provides: Haircut",
+      "place_id": "1085090769934762509",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=1085090769934762509&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb241f3e96c0e72e66548eeba47a0636bb9d785b7a28bcd18f.png",
+      "gps_coordinates": {
+        "latitude": 18.537202,
+        "longitude": 73.8988712
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Scissors+tallk+unisex+salon,+1195%2F6+B,+Sushila+apartment,+Ghole+Rd,+near+by+Thikkana+cafe,+Shivajinagar,+Pune,+Maharashtra+411005,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c179cb14eae1:0xf0f044e6304420d?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIAxAA&hl=en&gl=us"
+      },
+      "title": "Scissors tallk unisex salon",
+      "type": "Barber shop",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "3+ years in business",
+      "phone": "+91 93266 61755",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 15,
+      "rating": 4.6,
+      "reviews_original": "(396)",
+      "reviews": 396,
+      "description": "\"Good place for haircuts\"",
+      "place_id": "299950613463960998",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=299950613463960998&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb6f9ea5ff07d0e3814073ce88b176bbf64cffb2d6c3302ffd.png",
+      "gps_coordinates": {
+        "latitude": 18.5015003,
+        "longitude": 73.8390644
+      },
+      "links": {
+        "website": "https://www.thehouseofhair.in/",
+        "directions": "https://www.google.com/maps/dir//The+House+of+Hair+-+Best+Unisex+Salon+in+Kothrud,+Pune,+Girija+Shankar+vihar+society,+potnis+parisar,+86,+Lane+Number+6,+opp.+Durga+cafe,+Karve+Nagar,+Pune,+Maharashtra+411052,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2bf774b8670c7:0x429a37e65ae0da6?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIBxAA&hl=en&gl=us"
+      },
+      "title": "The House of Hair - Best Unisex Salon in Kothrud, Pune",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "3+ years in business",
+      "phone": "+91 88503 27158",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 16,
+      "rating": 4.8,
+      "reviews_original": "(140)",
+      "reviews": 140,
+      "description": "\"Good place for a haircut and very friendly staff\"",
+      "place_id": "16722798983849865279",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=16722798983849865279&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb311e6d6dfa18f1cef591d08fd05a6434df4b985064d780e1.png",
+      "gps_coordinates": {
+        "latitude": 18.524665499999998,
+        "longitude": 73.8417466
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Relax+Men's+Parlour,+683,+Nr.+Garware,+Deccan+Gymkhana,+bridgePune,+Maharashtra+411004,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c1882a3c6503:0xe81351131aa2703f?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIARAA&hl=en&gl=us"
+      },
+      "title": "Relax Men's Parlour",
+      "type": "Hair salon",
+      "address": "bridgePune, Maharashtra, India",
+      "years_in_business": "7+ years in business",
+      "phone": "+91 98223 34000",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 17,
+      "rating": 4.6,
+      "reviews_original": "(137)",
+      "reviews": 137,
+      "description": "Provides: Haircut",
+      "place_id": "14159661013147502932",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=14159661013147502932&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb6ce0e8aee2421a47b47131384512e6fe9110d3dd847181b3.png",
+      "gps_coordinates": {
+        "latitude": 18.4967877,
+        "longitude": 73.8225569
+      },
+      "links": {
+        "website": "https://g.page/Zulfeinsalon?share",
+        "directions": "https://www.google.com/maps/dir//Zulfein+Salon,+1045,+Lokmanya+Bal+Gangadhar+Tilak+Rd,+Shukrawar+Peth,+Pune,+Maharashtra+411002,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c194453d4d1d:0xc48138ab9c9ac954?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIBBAA&hl=en&gl=us"
+      },
+      "title": "Zulfein Salon",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "3+ years in business",
+      "phone": "+91 77679 12912",
+      "hours": "Open ⋅ Closes 10 PM"
+    },
+    {
+      "position": 18,
+      "rating": 4.7,
+      "reviews_original": "(64)",
+      "reviews": 64,
+      "description": "Provides: Haircut",
+      "place_id": "13285217202386207705",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=13285217202386207705&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb7b8e496c99cb59450f72e8d1797c11b107f6db1c6bf5e539.png",
+      "gps_coordinates": {
+        "latitude": 18.5158102,
+        "longitude": 73.8424843
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//Obrais+Unisex+Salon,+Kushal+Sagar+Plaza,+SH+6+GR+FLOOR,+29%2F1+30%2F1+30%2F2,+opposite+to+Jain+Temple,+Somwar+Peth,+Pune,+Maharashtra+411011,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c1416e3aee43:0xb85e92a8502383d9?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIBRAA&hl=en&gl=us"
+      },
+      "title": "Obrais Unisex Salon",
+      "type": "Hairdresser",
+      "address": "Pune, Maharashtra, India",
+      "phone": "+91 70581 20934",
+      "hours": "Open ⋅ Closes 10 PM"
+    },
+    {
+      "position": 19,
+      "rating": 4,
+      "reviews_original": "(208)",
+      "reviews": 208,
+      "description": "Provides: Haircut",
+      "place_id": "3650475475699618986",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=3650475475699618986&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fb5ba95ce5b01cae5893b9a0d13a37e53743bdeee2825b07af.png",
+      "gps_coordinates": {
+        "latitude": 18.5041463,
+        "longitude": 73.8553742
+      },
+      "links": {
+        "directions": "https://www.google.com/maps/dir//R-Ket's+Unisex+Salon,+Beauty+Spa+%26+Tattoo+Studio,+197,+Vaikunth+Nath+Rd,+Ganjwe+Wadi,+Sadashiv+Peth,+Pune,+Maharashtra+411030,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c0759611f829:0x32a9181aa659d4aa?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQICBAA&hl=en&gl=us"
+      },
+      "title": "R-Ket's Unisex Salon, Beauty Spa & Tattoo Studio",
+      "type": "Spa",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "7+ years in business",
+      "phone": "+91 77220 40288",
+      "hours": "Open ⋅ Closes 9 PM"
+    },
+    {
+      "position": 20,
+      "rating": 4.8,
+      "reviews_original": "(810)",
+      "reviews": 810,
+      "description": "Provides: (Male) Haircut By Master",
+      "place_id": "1348694731468557935",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&ludocid=1348694731468557935&q=Haircut+Pune",
+      "thumbnail": "https://serpapi.com/searches/660260fed5b1c5f0b312ba8a/images/83a0179adf2097fbbaccbec82adc9d2cbd445cf6781d677f9ea2377794ab7db0.png",
+      "gps_coordinates": {
+        "latitude": 18.5218284,
+        "longitude": 73.8649538
+      },
+      "links": {
+        "website": "https://k-salons-professionals.business.site/?bw=true",
+        "directions": "https://www.google.com/maps/dir//K+SALONS+PROFESSIONALS,+Pansare+Heights,+698,+RB+Kumthekar+Rd,+Opp+Khalkar+Maruti+Mandir,+Sadashiv+Peth,+Pune,+Maharashtra+411030,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c076c943ce2b:0x12b786b66b9fce6f?sa=X&ved=2ahUKEwjS2KrknJGFAxX_EmIAHQqrCosQ48ADegQIAhAA&hl=en&gl=us"
+      },
+      "title": "K SALONS PROFESSIONALS",
+      "type": "Beauty salon",
+      "address": "Pune, Maharashtra, India",
+      "years_in_business": "10+ years in business",
+      "phone": "+91 93268 62959",
+      "hours": "Open ⋅ Closes 7:30 PM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Haircut+Pune&hl=en&gl=us&start=20&tbm=lcl",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Haircut+Pune&hl=en&gl=us&start=20&tbm=lcl",
+      "3": "https://www.google.com/search?q=Haircut+Pune&hl=en&gl=us&start=40&tbm=lcl",
+      "4": "https://www.google.com/search?q=Haircut+Pune&hl=en&gl=us&start=60&tbm=lcl",
+      "5": "https://www.google.com/search?q=Haircut+Pune&hl=en&gl=us&start=80&tbm=lcl"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&q=Haircut+Pune&start=20",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&q=Haircut+Pune&start=20",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&q=Haircut+Pune&start=20",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&q=Haircut+Pune&start=40",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&q=Haircut+Pune&start=60",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Pune&q=Haircut+Pune&start=80"
+    }
+  }
+}
